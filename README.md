@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...poonamsweet672@gmail.com
 
 My Technical Skills computer
-python1 django1 php mysql1 html1 css1 js1 react postgres
 
-My Technical Journey and Goals rocket
+python1 django1 php mysql1 html css js MySql
+
 My primary working technology is Python and Django
 
 Passionate for learning & exploring new Technologies.
