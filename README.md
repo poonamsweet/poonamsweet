@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 My Technical Skills computer
 
-python1 django1  mysql1 html css js MySql
+python django mysql html css js MySql, Aws, Docker, postgres
 
 My primary working technology is Python and Django
 
