@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working with Python Django
+- 🔭 I’m currently working as Backend Developer | Python | Django Framework | Rest API | DRF | PostgreSQL |Flask | AWS | Docker
 - 🌱 I’m currently learning ...ReactJs
 
 
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 My Technical Skills computer
 
-python django mysql html css js MySql, Aws, Docker, postgres
+ Python , Django Framework ,DRF , PostgreSQL ,Flask , AWS , Docker
 
 My primary working technology is Python and Django
 
