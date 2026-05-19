@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as Backend Developer | Python | Django Framework | Rest API | DRF | PostgreSQL |Flask | AWS | Docker
+- 🔭 I’m currently working as Backend Developer | Python | Django Framework | Rest API | DRF |FastAPI |PostgreSQL |Flask | AWS | Docker
 - 🌱 I’m currently learning ... Gen AI, ReactJs, LLM, RAG, Langchain
 
 
